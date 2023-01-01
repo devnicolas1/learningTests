@@ -1,0 +1,20 @@
+{
+    "name": "nfser/learning-tests",
+    "description": "Project created to learn unit tests",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nfser\\LearningTests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nicolas Freitas",
+            "email": "nicolasfreitas34.1c@gmail.com"
+        }
+    ]
+}
